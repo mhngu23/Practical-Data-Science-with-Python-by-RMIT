@@ -1,5 +1,5 @@
 # Practical-Data-Science-with-Python-by-RMIT
-## Assignment 1: NBA player dataset analyse (Score: 24.5/25)
+## Assignment 1: NBA player dataset analyse 
 File including:
 * assignment 1_report.pdf
 * assignment1.ipynb
@@ -9,7 +9,7 @@ File including:
 - Using Python (Jupyter Notebook) and external libraries (pandas, matplotlib) to analyse and visualising the NBA Dataset. 
 - Document the finding in a formal report.
 
-## Assignment 2: Blood Transfusion Dataset classification (Score: 43/45)
+## Assignment 2: Blood Transfusion Dataset classification 
 File including:
 * Assignment 2 submit.ipynb
 * Assignment 2.pdf
