@@ -1,4 +1,4 @@
-# Practical-Data-Science-with-Python-by-RMIT
+# Practical-Data-Science-with-Python-RMIT-University 
 ## Assignment 1: NBA player dataset analyse 
 File including:
 * assignment1.ipynb
